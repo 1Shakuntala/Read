@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shaku.india@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Y_AUxwcwVNds9KYWweRxKjCzIdzvK3m/view?usp=sharing](https://drive.google.com/file/d/18Y_AUxwcwVNds9KYWweRxKjCzIdzvK3m/view?usp=sharing)
+- 📄 Know about my experiences [https://portfolio-app-hj5f.onrender.com/](https://portfolio-app-hj5f.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
